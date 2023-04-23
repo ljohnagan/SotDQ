@@ -15,6 +15,9 @@
     - [Bonus Feats](#bonus-feats)
 - [Feats](#feats)
   - [Divinely Favored](#divinely-favored)
+  - [Fated Leader](#fated-leader)
+  - [Fated Mentor](#fated-mentor)
+  - [Fated Sage](#fated-sage)
   - [Initiate of High Sorcery](#initiate-of-high-sorcery)
   - [Adept of the Black Robes](#adept-of-the-black-robes)
   - [Adept of the Red Robes](#adept-of-the-red-robes)
@@ -32,10 +35,17 @@
     - [Lunar Sorcery: Lunar Empowerment](#lunar-sorcery-lunar-empowerment)
     - [Lunar Sorcery: Lunar Phenomenon](#lunar-sorcery-lunar-phenomenon)
 - [Player Guide: Gods of Krynn](#player-guide-gods-of-krynn)
+    - [Gods of Neutrality](#gods-of-neutrality)
+    - [Gods of Evil](#gods-of-evil)
 - [Player Guide: Life on Ansalon](#player-guide-life-on-ansalon)
-    - [Languages](#languages)
-    - [Calendar (this is for Joe)](#calendar-this-is-for-joe)
-    - [Currency](#currency)
+  - [Languages](#languages)
+    - [Standard Languages of Ansalon](#standard-languages-of-ansalon)
+    - [Rare Languages of Ansalon](#rare-languages-of-ansalon)
+  - [Calendar (this is for Joe)](#calendar-this-is-for-joe)
+    - [Solamnic Months](#solamnic-months)
+    - [Solamnic Days](#solamnic-days)
+  - [Currency](#currency)
+    - [Currency of Ansalon](#currency-of-ansalon)
 - [Player's Guide: Kalaman Region](#players-guide-kalaman-region)
     - [City of Kalaman](#city-of-kalaman)
     - [People of Kalaman](#people-of-kalaman)
@@ -307,6 +317,12 @@ Whatever background you choose for a character in a Dragonlance campaign, you ga
 
 If you select the Knight of Solamnia or the Mage of High Sorcery background, you gain the feat specified in that background. If the background you choose doesn't provide a feat, you gain a bonus feat of your choice from the following list (a parenthesis tells you where to find the feat):
 
+- Fated Leader (from the player’s guide)
+- Fated Mentor (from the player’s guide)
+- Fated Sage (from the player’s guide))
+- Fighting Initiate (from Martial Prowess homebrew)
+- Initiate of High Sorcery (requires Mage of High Sorcery Background)
+- Squire of Solamnia (requires Knight of Solamnia Background)
 - Skilled (*Player's Handbook*)
 - Tough (*Player's Handbook*)
 
@@ -356,6 +372,35 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 
 In addition, you can use a holy symbol as a spellcasting focus for any spell you cast that uses the spellcasting ability you choose when you select this feat.
 
+## Fated Leader
+
+Prerequisite: 1st level, Dragonlance Campaign, Cha 13+
+You are fated to become a leader among those who fight in the conflict that surrounds you. You gain the following benefits:
+
+Persuasive. Gain Proficiency in the Persuasion skill. If you already have proficiency in Persuasion, you gain Expertise in it.
+
+Inspiring Words. After you finish a Short Rest or Long Rest, you can say a few inspiring words and grant Inspiration to allies who can hear you. The number of allies you can affect in this way equals your Proficiency Bonus.
+
+## Fated Mentor
+
+Prerequisite: 1st level, Dragonlance Campaign, Wis 13+
+
+You are fated to guide and help shape your allies into the heroes you know they can become. You gain the following benefits:
+
+Insightful. Gain Proficiency in the Insight skill. If you already have proficiency in Insight, you gain Expertise in it.
+
+Mentor's Guidance. When you give up your inspiration to give another character inspiration and they use that inspiration on their next roll,mm their inspiration is not expended if the resultant roll fails. You must have inspiration to use this ability, and you can do this a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+
+## Fated Sage
+
+Prerequisite: 1st level, Dragonlance Campaign, Int  13+
+
+You are fated to unlock the secrets of the past to help shape the present and future. You gain the following benefits:
+
+Ancient Lore. Gain Proficiency in the History skill. If you already have proficiency in History, you gain Expertise in it.
+
+Reliable Knowledge. When you make an Intelligence (History) check and roll a 9 or lower on the d20, you can treat the roll as a 10. You can do this a number of times equal to your
+proficiency bonus, and you regain all expended uses when you finish a Long Rest/
 
 ## Initiate of High Sorcery
 
